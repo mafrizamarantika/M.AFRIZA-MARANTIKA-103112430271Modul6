@@ -1,7 +1,7 @@
 # M.AFRIZA-MARANTIKA-103112430271Modul6
 LAPRAK MODUL 6
 
-# <h1 align="center">Laporan Praktikum Modul 5 <br> SINGLY LINKED LIST (BAGIAN KEDUA) </h1>
+# <h1 align="center">Laporan Praktikum Modul 6 <br> Doubly Linked List (BAGIAN PERTAMA) </h1>
 <p align="center">M.AFRIZA MARANTIKA - 103112430271</p>
 
 ## Dasar Teori
