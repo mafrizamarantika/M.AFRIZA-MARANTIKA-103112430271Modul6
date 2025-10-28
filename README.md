@@ -533,8 +533,8 @@ int main() {
 ```
 
 > Output
-> ![Screenshot bagian x](ssmodul5unguided2.png)
-program tersebut menggunakan struktur data doubly linked list untuk menyimpan data kendaraan setiap kendaraan memiliki nomor polisi warna dan tahun pembuatan program diawali dengan membuat list kosong kemudian membuat beberapa data kendaraan baru yang dimasukkan ke dalam list menggunakan fungsi insertlast setelah semua data masuk program menampilkan isi list lalu mencari data berdasarkan nomor polisi dengan fungsi findelm jika ditemukan akan menampilkan data kendaraan tersebut kemudian program menghapus elemen pertama dengan fungsi deletefirst dan menampilkan hasilnya kembali semua operasi seperti alokasi dealokasi insert delete dan pencarian dilakukan dengan manipulasi pointer next dan prev agar data dapat diakses dua arah dari depan maupun belakang
+> ![Screenshot bagian x](ssunguidedmodul6.png)
+Program diatas menggunakan struktur data doubly linked list untuk menyimpan data kendaraan setiap kendaraan memiliki nomor polisi warna dan tahun pembuatan program diawali dengan membuat list kosong kemudian membuat beberapa data kendaraan baru yang dimasukkan ke dalam list menggunakan fungsi insertlast setelah semua data masuk program menampilkan isi list lalu mencari data berdasarkan nomor polisi dengan fungsi findelm jika ditemukan akan menampilkan data kendaraan tersebut kemudian program menghapus elemen pertama dengan fungsi deletefirst dan menampilkan hasilnya kembali semua operasi seperti alokasi dealokasi insert delete dan pencarian dilakukan dengan manipulasi pointer next dan prev agar data dapat diakses dua arah dari depan maupun belakang
 
 ## Referensi
 
